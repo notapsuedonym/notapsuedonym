@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @notapsuedonym
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">
+  <img src="">
+</h1>
 
-<!---
-notapsuedonym/notapsuedonym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I like all stuff technology
+- I hope to contribute more than just software to the open-source community
+
+![Static Badge](https://img.shields.io/badge/hates-4chan-%23006600?logo=4chan)
