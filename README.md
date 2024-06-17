@@ -1,11 +1,18 @@
 <h1 align="center">
-  <img src="">
+  <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/cereal.jpg?raw=true">
 </h1>
 
 - I like all stuff technology
 - I hope to contribute more than just software to the open-source community
 
 ![Static Badge](https://img.shields.io/badge/hates-4chan-%23006600?logo=4chan)
-![Static Badge](https://img.shields.io/badge/loves-matrix-%23000000?logo=matrix)
-![Static Badge](https://img.shields.io/badge/uses-element-%230DBD8B?logo=element)
-![Static Badge](https://img.shields.io/badge/eats-pi-%23A22846?logo=raspberrypi)
+![Static Badge](https://img.shields.io/badge/loves-Matrix-%23000000?logo=matrix)
+![Static Badge](https://img.shields.io/badge/uses-Element-%230DBD8B?logo=element)
+![Static Badge](https://img.shields.io/badge/uses-Manjaro-%2335BF5C?logo=manjaro)
+![Static Badge](https://img.shields.io/badge/eats-Pi-%23A22846?logo=raspberrypi)
+![Static Badge](https://img.shields.io/badge/knows-Python-%233776AB?logo=python)
+![Static Badge](https://img.shields.io/badge/knows-JavaScript-%23F7DF1E?logo=javascript)
+![Static Badge](https://img.shields.io/badge/learning-Perl-%2339457E?logo=perl)
+![Static Badge](https://img.shields.io/badge/learning-C%2B%2B-%2300599C?logo=c%2B%2B)
+
+<p align="center">(and a lot more)</p>
