@@ -29,8 +29,6 @@
 
 ## ink (incogScript) lang
 <div align="center">
-  <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/ink1.png?raw=true">
-  <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/ink2.png?raw=true">
   <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/ink3.png?raw=true">
 </div>
 <div align="center">
