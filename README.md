@@ -26,3 +26,13 @@
   you can find this at <a href="https://artificialvagina.neocities.org/cBash">my site</a> but it's bad sorry
   (i'm still learning...)
 </div>
+
+## ink (incogScript) lang
+<div align="center">
+  <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/ink1.png?raw=true">
+  <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/ink2.png?raw=true">
+</div>
+<div align="center">
+  this will be on my website soon
+</div>
+
