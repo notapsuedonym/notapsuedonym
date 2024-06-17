@@ -16,3 +16,13 @@
 ![Static Badge](https://img.shields.io/badge/learning-C%2B%2B-%2300599C?logo=c%2B%2B)
 
 <p align="center">(and a lot more)</p>
+
+# stupid stuff i've made
+## cBash (calaBash) scripting lang
+<div align="center">
+  <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/stupidLang.png?raw=true" height="500vh">
+</div>
+<div align="center">
+  you can find this at <a href="https://artificialvagina.neocities.org/cBash">my site</a> but it's bad sorry
+  (i'm still learning...)
+</div>
