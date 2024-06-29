@@ -32,6 +32,6 @@
   <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/ink3.png?raw=true">
 </div>
 <div align="center">
-  this will be on my website soon
+  <a href="https://artificialvagina.neocities.org/scribeLang">this will be on my website soon</a>
 </div>
 
