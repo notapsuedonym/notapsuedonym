@@ -30,6 +30,7 @@
 ## ink (incogScript) lang
 <div align="center">
   <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/ink3.png?raw=true">
+  <img src="https://github.com/notapsuedonym/notapsuedonym/blob/main/unecessaryComplexity.png?raw=true">
 </div>
 <div align="center">
   <a href="https://artificialvagina.neocities.org/scribeLang">this will be on my website soon</a>
