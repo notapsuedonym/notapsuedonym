@@ -9,6 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/HATES-Meta-%230467DF?logo=Meta&color=%230467DF)
 ![Static Badge](https://img.shields.io/badge/HATES-.NET-%230467DF?logo=.NET&color=%23512BD4)
 ![Static Badge](https://img.shields.io/badge/HATES-NVIDIA-%230467DF?logo=NVIDIA&color=%2376B900)
+![Static Badge](https://img.shields.io/badge/HATES-AT%26T-%230467DF?logo=AT%26T&color=%23009FDB)
 ![Static Badge](https://img.shields.io/badge/loves-Matrix-%23000000?logo=matrix)
 ![Static Badge](https://img.shields.io/badge/uses-Element-%230DBD8B?logo=element)
 ![Static Badge](https://img.shields.io/badge/uses-Manjaro-%2335BF5C?logo=manjaro)
