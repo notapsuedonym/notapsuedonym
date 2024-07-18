@@ -12,8 +12,10 @@
 ![Static Badge](https://img.shields.io/badge/eats-Pi-%23A22846?logo=raspberrypi)
 ![Static Badge](https://img.shields.io/badge/knows-Python-%233776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/knows-JavaScript-%23F7DF1E?logo=javascript)
+![Static Badge](https://img.shields.io/badge/knows-Crystal-%23000000?logo=Crystal&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/learning-Perl-%2339457E?logo=perl)
 ![Static Badge](https://img.shields.io/badge/learning-C%2B%2B-%2300599C?logo=c%2B%2B)
+![Static Badge](https://img.shields.io/badge/learning-Fortran-%23734F96?logo=Fortran&color=%23734F96)
 
 <p align="center">(and a lot more)</p>
 
