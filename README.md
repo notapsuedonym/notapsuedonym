@@ -3,9 +3,9 @@
 </h1>
 
 <div align="center">
-  langdev, OSdev, random stuff
+  meow
 </div>
 <div align="center">
-  python n lua but im working on branching out
+  everything but consistency
 </div>
 
